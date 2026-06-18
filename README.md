@@ -57,4 +57,4 @@ The LSTM model achieved good accuracy and successfully classified text sentiment
 
 ## 👩‍🎓 Author
 Sudham Navyasri  
-Computer Science Undergraduate
+
